@@ -7,7 +7,7 @@ require 'pact/consumer_contract'
 
 
 
-def hoge() do
+def hoge() 
  aXXX_ad = "112233"
   puts aXXX_ad
   
